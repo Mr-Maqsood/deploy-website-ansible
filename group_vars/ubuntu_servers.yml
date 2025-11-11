@@ -1,0 +1,5 @@
+# group_vars/ubuntu.yml
+nginx_user: www-data
+web_root_path: /var/www/html
+db_password: "UbuntuPASS"
+server_name: "ubuntu.miseacademy.dev"

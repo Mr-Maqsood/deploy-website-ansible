@@ -1,0 +1,5 @@
+# group_vars/amazon.yml
+web_root_path: /usr/share/nginx/html
+nginx_user: nginx
+db_password: "AmazonPASS"
+server_name: "amazon.miseacademy.dev"
